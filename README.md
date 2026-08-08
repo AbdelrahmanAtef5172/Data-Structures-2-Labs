@@ -18,7 +18,6 @@ A collection of interactive Jupyter Notebooks implementing and visualizing core 
 - [Lab 4 — Graphs](#lab-4--graphs)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ---
 
@@ -167,9 +166,3 @@ Total cost: 37
 | `Matplotlib` | Plotting & RBT visualization      |
 | `networkx` | Graph visualization   |
 | `Jupyter Notebook` | Interactive execution |
-
----
-
-## License
-
-This project is for **educational purposes**.
